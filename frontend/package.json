@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://varwal001-lgtm.github.io/Secretroom",
+  "homepage": "https://varwal001-lgtm.github.io/bestroom",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
